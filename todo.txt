@@ -1,0 +1,4 @@
+implement:
+1. view single job
+2. delete
+3. update
